@@ -584,52 +584,399 @@ We have to pay attention to product metrics, but we also have to be mindful of s
 
 Understanding where we are and where we are going helps the project team determine if they are on track. As you learned in the video on this topic, you need to get clarity from stakeholders on the project requirements and expectations. There are many people involved with any project, and success will look different for each of them. You want to ask questions, such as: Who ultimately says whether or not the project is successful? What criteria will be measured to determine success? What is the success of this project based on? It is best practice to get the key stakeholders or the steering committee to review and approve your success criteria. This becomes a mutual agreement on how all parties define the success of the project. 
 
+---
+
+# Week 3
+
+### Introduction: Working effectively with stakeholders video notes
+
+**stakeholders** play a pivotal role. They are people who are interested in and affected by the project's completion and success. 
+
+---
+
+### Choosing a project team video notes
+
+When choosing a team, consider: 
+
+- **Required roles** - First, a project manager will make a list of roles that they'll need on their team to complete each task.
+- **Team size** -  the project manager decides how many people they'll need on their team. This can vary greatly depending on the project size. For small projects, a team may only need three or four people to complete the deliverables on time, and for larger projects, a team might include dozens. 
+- **Necessary skills** - To decide on the right person for each role, a project manager needs to think carefully about skills. It's on the project manager to ensure that everyone on the team has the right skills to do the job, but it's also important to remember that skills can be taught. If someone doesn't have a certain skill initially, they might still be a great fit for the team.
+- **Availability** - When choosing teammates, a project manager also has to factor in each person's availability and whether they'll feel motivated to complete their assigned tasks.
+
+It can be helpful to look deeper into each task on the project. Always ask yourself these key questions: 
+- How many people do I need on my team each step of the way? 
+- Which team members do I need and when? 
+- Are those experts already busy on other projects? 
+- Who makes the final decisions on project resources?
+
+---
+
+### Reading: Review: The building blocks of a project dream team
+
+##### Too big, too small, or just right?
+Once you lay the foundation for your project by outlining your goals and expectations, it is time to build your dream team! Though before we can build our dream team, we need to figure out how many people we need. This number will largely depend on the size of the project itself. Complex projects with large divisions of work will usually require larger project teams. Simple projects with straightforward expectations may only require a few people on the project team. As a project manager, it is your job to help find the right balance based on what is needed.
+
+The right skills and abilities to fill the role
+Multiple roles exist in every project. On smaller teams, multiple roles may be filled by one person. To meet the needs of more specialized projects, project managers might require people who have the necessary technical skills. Technical skills are the skills specific to the task that needs to be performed. For example, on the Office Green project, necessary **technical skills** may include indoor landscaping design for the layout of the plants within the offices and floral design of plant arranging.  
+
+Technical skills are highly valued, but they are not the only skills that are important for high functioning teams. Interpersonal skills, also known as people skills or soft skills, such as patience and conflict mediation, can help team members. This allows the team to blend their technical expertise with collaborative skills in order to get the job done. When a team applies their interpersonal skills, they can minimize team-related issues. 
+
+**Problem-solving skills** are a must for all team members, especially when it comes to large, complex projects. As a project manager, you will not be able to solve every problem for your team. At some point, they will need to use their own judgment to problem-solve and get the work done. 
+
+An underrated skill set for project team members are leadership skills. **Strong leadership skills** help team members navigate organizational boundaries and effectively communicate with stakeholders to generate buy-in. 
+
+##### Who is available?
+
+In projects, the availability of your team is always a big concern. This is especially true in Matrix organizations, where team members have multiple bosses. It is not uncommon to pull a team member onto another project before your project is complete. In a perfect world, you only pick those who can stay on the project for its entire life cycle. You may find that you don’t get to pick certain members of your team at all, which is called a pre-assignment. In these cases, the sponsor assigns team members to your project.
+
+Keep in mind that you need to value diversity early on when building your team. On diverse teams, everyone is able to use their unique professional and personal experiences to contribute to a more successful project. Diversity is best leveraged when it is acknowledged and highlighted as an asset. Many people avoid discussing their differences, but if you encourage those conversations, you will find a richer understanding and greater creativity that comes from people working together across identity differences. To do this effectively, it is important to dedicate time early on in the team building process to develop trust between team members. Team members who understand one another are more likely to trust each other and feel safe sharing different points of view or offer a competing perspective. This will also allow them to more easily offer constructive feedback or be supportive if the team dynamics face challenges at any point.
+
+##### What motivates them?
+
+Be sure to take note of the motivation level of your team members and the impact it may have on your project. Just because a person is pre-assigned to a project, doesn’t necessarily mean they have low interest in it, but a person who proactively volunteered for it may have additional motivation to do the work.
+
+As a project manager, it is your responsibility to engage your team and keep them motivated. This is where your influence as a leader is required to keep the team engaged and ready to overcome any obstacles that may appear. Engaging in a respectful manner and maintaining a positive outlook with your team during times of adversity are simple ways to keep your team motivated.  
+
+---
+
+### Defining project roles video notes
+
+To feel confident in your team, you need to know each person's role from the start. Clearly laying out the responsibilities for each role helps everyone know what project tasks they're accountable for.
+
+**Team members** are the heart of the operation. They're the people doing the day to day work and making the project happen. 
+
+**The customers** are the people who will get some sort of value from a successfully landed project.
+
+**Users** are the people that ultimately use the product that your project will produce. 
+
+**Stakeholders** are anyone involved in the project; those who have a vested interest in the project's success. 
+
+**Primary stakeholders** are people who expect to benefit directly from the project's completion, while **secondary stakeholders** play an intermediary role and are indirectly impacted by the project.
+
+A **project sponsor** is the person who is accountable for the project and who ensures the project delivers the agreed upon value to the business. They play a vital leadership role throughout the process. Sometimes they fund the project.
+
+**Project manager**: the person who plans, organizes and oversees the whole project. 
+
+---
+
+### Completing a stakeholder analysis video notes
 
 
+There are three key steps to kicking off a stakeholder analysis:
 
+1. First, make a list of all the stakeholders that the project impacts. 
+2. Then determine the level of interest and influence for each stakeholder. 
+3. Assess their ability to participate, and find ways to involve them.
 
+**Influence** measures how much power a stakeholder has and how much the stakeholder's actions affect the project outcome. 
 
+ The **power grid** is a super useful two-by-two grid used for conducting a stakeholder analysis. We use the power grid to assign each stakeholder's level of importance to the project, measuring their interest and influence. The position of the stakeholder on the grid usually determines their active role in the project. The higher the interest and influence, the more important the stakeholder is to the project's success. 
 
+ You may also want to create a **steering committee** made up of a high influence and high interest stakeholders. These people will be the most senior decision-making body on any project. They have the authority to make changes to budget and approve updates to timeline or scope. 
+ 
+ **The project manager isn't a member of the steering committee**, but they're responsible for bringing the right project information to the steering committee so that decisions can be quickly made. 
 
+**Stakeholder buy-in** is the process of involving these people in decision-making to hopefully reach a broader consensus on the organization's future. You'll want to explain to them how the project will help them achieve their goals, and you want to have their support later on if any issues come up. 
 
+---
 
+### Reading Prioritizing stakeholders and generating their buy-in
 
+#### Conducting a stakeholder analysis 
 
+**Stakeholders** are an essential part of any project. A project manager’s ability to balance stakeholder requirements, get their buy-in, and understand when and how to involve them is key to successfully fulfilling a project.  
 
+It is key to keep stakeholders organized in order to understand when and how to involve them at the right time. In an earlier video, we introduced the **stakeholder analysis**, a useful tool that project managers use to understand stakeholders’ needs and help minimize hiccups during your project life cycle. 
 
+Let’s review the key steps in the stakeholder analysis:
 
+1. Make a list of all the stakeholders the project impacts. When generating this list, ask yourself: Who is invested in the project? Who is impacted by this project? Who contributes to this project? 
 
+2. Determine the level of interest and influence for each stakeholder—this step helps you determine who your key stakeholders are. The higher the level of interest and influence, the more important it will be to prioritize their needs throughout the project. 
 
+3. Assess stakeholders’ ability to participate and then find ways to involve them. Various types of projects will yield various types of stakeholders—some will be **active stakeholders** with more opinions and touchpoints and others will be **passive stakeholders**, preferring only high-level updates and not involved in the day-to-day. That said, just because a stakeholder does not participate as often as others does not mean they are not important. There are lots of factors that will play a role in determining a stakeholder’s ability to participate in a project, like physical distance from the project and their existing workload. 
 
+**Pro tip:** You might want to form a **steering committee** during some projects. A steering committee is a collection of key stakeholders who have a high level of power and interest in a project. A steering committee can influence multiple departments within the organization, which means that they have the potential to release a greater number of resources to the project manager.  
 
+##### Visualizing your analysis
 
+A **power grid** shows stakeholder interest *in* the project versus their influence over the project. This four-quadrant tool helps project managers evaluate how to manage their stakeholders. It is used to determine the appropriate level of engagement required by the project team needed to gain the stakeholders’ trust and buy-in.
 
+Take the time at the start of the project to establish your stakeholder approach. List the stakeholders and then place them into the appropriate places on the grid. Being able to visualize their placement will help you manage communications and expectations. Having a quick reference tool to drive your communication actions will also allow you to have the ability to spend more time doing other tasks on your project. 
 
+**Pro tip:** While these tools help organize information, they do not necessarily make the difference between successful and unsuccessful stakeholder engagement. **What will make for successful stakeholder engagement is the project manager’s ability to know their stakeholders’ motivations and inspirations.** This takes time, interpersonal skills, and insight into the organization’s internal political workings. Remember, each project is different, and your project may need tweaks along the way as you grow as a project manager. Making necessary changes means you are doing something right. Just make sure to check in and ensure that you are well on track, engaging your stakeholders successfully, and delivering on your project!
 
+##### Generating stakeholder buy-in 
 
+Once you organize and assess your stakeholders, it is time to start making some decisions on whose buy-in is absolutely necessary for success, whose requirements deserve the most attention, and what level of communication each stakeholder will require.
 
+Gaining key stakeholder buy-in is essential to ensuring that your project is not deprioritized or deprived of resources. 
 
+Tips for gaining key stakeholder buy-in include: 
 
+- Clearly mapping the work of the project to the goals of the stakeholder.
 
+- Describing how the project aligns with the goals of the stakeholder's department or team.
 
+- Listening to feedback from the stakeholder and finding ways to incorporate their feedback into the project's charter where appropriate.
 
+Manage your stakeholders’ expectations by presenting a realistic view of your team’s abilities. Do not over-promise and under-deliver! 
 
+---
 
+### Elements of a RACI chart video notes
 
+A RACI chart helps to define roles and responsibilities for individuals or teams to ensure work gets done efficiently. It creates clear roles and gives direction for each team member. 
 
+There are four types of participation included in a RACI chart. These are: 
+- **R**esponsible
+- **A**ccountable 
+- **C**onsulted
+- **I**nformed 
 
+**Responsible** refers to those doing the work to complete the task. **Accountable** refers to those making sure the work gets done. **Consulted** includes those giving feedback, like subject matter experts or decision-makers. And lastly, we have **informed**, which includes those just needing to know the final decisions or that a task is complete. 
 
+---
+### Reading Building out a RACI chart
 
+##### Elements of a RACI chart
 
+A RACI chart creates clear roles and gives direction to each team member and stakeholder. Over your career, you may hear a RACI chart referred to as a Responsibility Assignment Matrix (RAM), RACI diagram, or RACI matrix. The ultimate goal of this chart is to clarify each person’s role on your project. 
 
+First, let’s break down each of the roles people can be assigned:
 
+**R**: Responsible: who gets the work done
 
+**A**: Accountable: who makes sure the work is done
 
+**C**: Consulted: who gives input or feedback on work
 
+**I**: Informed: who needs to know the outcome
 
+The RACI chart is a valuable tool. It can help you define and document project roles and responsibilities, give direction to each team member and stakeholder, and ensure work gets done efficiently. A RACI chart can also help you analyze and balance the workload of your team. While it may take many revisions to make sure that your team members and stakeholders are being placed into the right roles in your RACI chart, doing this work up front helps save time and prevent miscommunications later on. 
 
+---
 
+##### Workload balance 
 
+Are there too many tasks assigned to one stakeholder? When you complete your chart, it is a good idea to go back through and tally the number of Rs assigned to each stakeholder. This can help you identify potentially overloading one team member with work. Using a RACI chart to determine responsibility for tasks can help mitigate single points of failure (known as creating **silos**, where the knowledge and responsibility for a task falls on one person) and allow you, as the project manager, to delegate tasks and avoid burnout. Maintaining workload balance is a critical part of project management. It is easy to fall into the pattern of relying on your top performers to keep the project moving forward. But this isn’t always healthy for the project or your team. If you find that you don’t have the right people to assign responsibilities to, take a step back and evaluate your team. 
+
+##### Put your RACI into practice
+Once you have created your RACI chart, it is time to put it into practice. You will first need to share your RACI chart with your sponsors and stakeholders to get buy-in and sign-off. When you get stakeholder buy-in, you will be able to set clear expectations for your team and ensure that everyone is aligned on their responsibilities. 
+
+You can document your team and stakeholders’ acknowledgment of these expectations through the project charter, meeting notes, and in the RACI chart itself. Think back to a time when you were expected to do something you did not agree with, or weren’t clear on. That disagreement or lack of clarity made it difficult to do your best work, right? Getting buy-in and continually checking in with your stakeholders and your team is the way to avoid this potential pitfall! 
+
+As you take the time to ensure that each task has an owner identified with the appropriate level of engagement, you are streamlining your communication and decision-making process over the life cycle of your project. 
+
+##### When should you use a RACI chart?
+If you are wondering if you should use a RACI chart on your project, it is a good idea to evaluate the complexity of the effort. For example, if you have a very small project team with a small amount of stakeholders, clearly defined roles, and a short timeline, introducing a RACI chart could possibly slow down the project. However, larger projects, or even projects that involve a large number of stakeholders, could greatly benefit from a RACI chart. It is always a good idea to work through the creation of a RACI chart and evaluate the outcome. Even if you do not end up using the RACI chart, you will have a better understanding of the project, and your effort will contribute to your project management experience overall.
+
+---
+
+### Activity Exemplar: Assign project roles and responsibilities in a RACI chart
+
+---
+
+# Week 4
+
+### Essential project resources video notes
+
+A **budget** is an estimate of the amount of money a project will cost to complete.
+
+When we talk about **resources**, we're also talking about the team of people who help execute the tasks of a project. For example, you, as the project manager are a resource. So is the marketing manager who might create advertisements for this new product. Other resources can include people outside of your company who have unique skills and can do certain tasks that people in your organization can't do personally.
+
+Then, you have **materials**. These are items you need to help get the project done. For example, project materials might include the lumber needed to complete a construction project, okay? So you know that project resources include budget, people, and materials.
+
+**Tools** are aids that make it easier for a project manager or team to manage resources and organize work. They help you do things like track tasks, manage budgets, and collaborate with teammates. 
+
+They help you do things like track tasks, manage budgets, and collaborate with teammates.
+
+---
+
+### Reading: Managing resources to get the job done
+
+As we continue learning the tools and techniques that will help you succeed in project management, let’s consider the importance of **project resources**. Project resources are who and what you depend on to complete a project, including budget, materials, and people. While each resource is a separate entity, they all depend on one another—your team cannot do the work without materials, and you cannot purchase materials without a budget. In this reading, we will discuss some key project resources and tips for managing them.
+
+#### Budget
+
+Have you ever created a budget for yourself or your family? If you have, you know that a budget includes a wide variety of expenses. For example, a monthly personal budget can contain items that include anything from food to transportation costs to rent. With only a certain amount of funding to cover each expense, it is important to closely monitor your spending to avoid going over budget. If you go over in one category of your budget, you will impact the others and will need to make adjustments. As a project manager, you will take the same general approach with your project budget. 
+
+Common aspects of your project budget will include:
+
+- Team: the cost of the people performing the work
+
+- Services: any outside vendors helping your project
+
+- Materials: any tangible items purchased to complete the project
+
+Throughout your project management career, you will encounter various types of projects with a wide range of budgets. Some budgets will have no margin for error, whereas other budgets may be more flexible. Regardless of this variability, budget issues will inevitably arise, so it is important to make sure that the budget is aligned with the project scope and the stakeholders’ asks. 
+
+#### People
+
+People are a vital resource on your project; you cannot complete your project on your own! You will need to rely on a strong team of people with a variety of skill sets and specialties to get the job done. As a project manager, make sure that you have commitment and buy-in on the number of hours it will take for your resources to complete their tasks. Additionally, you will find the best partners on a project are people who are aligned to the goals of the project or who are most interested in the project's work.
+
+#### Materials
+
+Materials can be different on every project. For example, if you were working on an IT project, materials could include hard drives and computers to handle the coding efforts. You can also have materials that are intangible. For example, on the same IT project, online storage, software programs, or employee training may also be considered materials. It is important to account for any and all potential materials in order to execute a successful project with the right people and within budget. 
+
+---
+
+### The value of project documentation video notes
+
+Clear and consistent documentation can ensure transparency and clear communication. 
+
+Documentation helps set the stage for the project. It communicates the answers to key questions. 
+
+For example: 
+
+- What problem are you trying to solve? 
+- What are the project goals? 
+- What are the scope and deliverables, and who are the project's stakeholders? 
+- What resources does the team need to complete their work?
+
+Documentation also helps preserve decisions made early on in the project and can serve as a reference point for team members who might join later in the project life cycle. 
+
+Documenting decisions can help you uncover:
+- tasks 
+- timelines 
+- costs you hadn't previously considered
+- process provides a historical record that can be reviewed at the end of your project
+
+---
+
+### Project proposals and charters 101 video notes
+
+These are: the project proposal and the project charter. A **project proposal** is a form of documentation that comes at the very beginning of the project. This document's purpose is to persuade stakeholders that a project should begin.
+
+the **project charter**: a formal document that clearly defines the project and outlines the necessary details to reach its goals. A project charter helps you get organized, set up a framework for what needs to be done, and communicate those details to others. 
+
+##### Project charter vs Project proposal 
+
+So how do these documents differ? A project proposal is created earlier in the project life cycle than the project charter.
+
+The proposal kicks off the initiation phase by influencing and persuading the company to move forward with the project. 
+
+The project charter serves a similar purpose and often comes at the end of the initiation phase. However, its goal is to more clearly define the key details of the project. 
+
+Another difference between these two documents is that a charter will often serve as a point of reference throughout the life of a project. The proposal is only used at the earlier stages.
+
+**END of explaination---**
+
+The project charter makes clear that the benefits of the project outweigh the costs. 
+
+As you learned earlier in this course, there are a few questions you might ask yourself when performing a cost benefit analysis. That includes questions like: 
+
+- What value will this project create? 
+- How much money could this project save my organization? 
+- How much time will people have to spend on this project? 
+
+You'll include the answers to these questions in your charter. Including this type of information ensures that you and your stakeholders agree on the project value. 
+
+**The charter also helps ensure that you and your stakeholders agree on the details of the project.**
+
+Creating a project charter is a best practice for ensuring that everyone agrees on how to move forward before entering the planning phase. 
+
+The project charter is a living document. This means that it can evolve as the project progresses. As the project manager, you'll review and refine the charter throughout the process.
+
+---
+
+### Reading: Project charters: Elements and formats
+
+A project charter clearly defines the project and outlines the necessary details for the project to reach its goals. A well-documented project charter can be a project manager’s secret weapon to success. In this reading, we will go over the function, key elements, and significance of a project charter and learn how to create one. 
+
+The charter is the formal way that the project’s goals, values, benefits, and details are captured. You can think of the charter as the compass for your project since you will use it throughout the life cycle of the project. Many stakeholders will look to your project charter to ensure that you are indeed aligned with strategic goals and set up for achieving the desired end goal. Since the project charter carries so much importance, it is important to incorporate the right amount of detail while omitting miscellaneous elements.
+
+As with any of your project documents, it is a good idea to collaborate with your team and stakeholders early and often. Developing the project charter in collaboration with both groups can help you make sure that your project charter addresses your key stakeholders’ most important concerns and keeps your team aligned. Be sure to use the business case—the reason for initiating the project—as the guiding direction to your project charter. Project charters can vary from organization to organization and from project to project. It is key for a project manager to identify the best type of charter for the project in order to capture the relevant information and set your project up for success. 
+
+Project charters will vary but usually include some combination of the following key information:
+
+- introduction/project summary
+
+- goals/objectives 
+
+- business case/benefits and costs
+
+- project team
+
+- scope
+
+- success criteria
+
+- major requirements or key deliverables
+
+- budget
+
+- schedule/timeline or milestones
+
+- constraints and assumptions
+
+- risks
+
+- OKRs
+
+- approvals
+
+You will likely use many different project charter formats throughout your project management career.
+
+For more complex projects, you may link to additional analysis or documents. You can house these items in the appendix. 
+
+Your organization may have a unique template for you to use, or you may have the flexibility to leverage one you come across in your career. As your project progresses, you may also encounter revisions to your project charter—and that is okay. Remember, it is a living document; let it grow with your project, and review and revisit it often to ensure you are aligned. 
+
+---
+
+**Benefits and costs** describe what the company hopes to get out of the project, as well as the money and resources it requires.
+
+**Measuring success** lists the success criteria that help you determine when the project has reached its goal.
+
+The **business case** explains the reason for the project and how it supports the company’s overall success.
+
+The **executive summary** outlines the project’s purpose and desired outcomes.
+
+**Project goals** should be SMART and well-defined.
+
+**Scope and exclusion** defines activities that are part of the project—and those that are not.
+
+**Deliverables** include expected outcomes—both tangible and intangible.
+
+The **project team** lists the various people who will participate in the project. 
+
+---
+
+### Utilizing tools for effective project management video notes
+
+Tools can also help you manage a budget, build helpful charts and diagrams, manage contracts and licenses, and keep stakeholders informed. Tools can be straightforward, like digital spreadsheets or documents, or they can be more sophisticated, like scheduling and work management software. It's important to think about the needs of the project when choosing which to use.
+
+---
+
+### Introducing new tools to a team
+
+Project management tools and processes are always evolving. In this reading, we will discuss the importance of choosing the right tools for a project and the implications of introducing new tools to your team. 
+
+As a project manager, it is important to be open to implementing new tools that may be beneficial to a project's outcome. You will experience change in lots of forms throughout your project’s life cycle, and navigating change is essential. But if you choose to implement a tool that your team is unfamiliar with—especially if you decide to roll it out midway through a project—your team may be hesitant. People embrace change differently, particularly if the change will directly impact their routine and the way they work. Simply put: Change can be met with resistance.
+
+Before you introduce a new tool to your team, you should be sure that this change is actually going to benefit the project, and ensure that those involved in your project understand the benefits of this change. Demonstrating to your teammates and stakeholders that you understand the tool and have evaluated its competency will help build trust, especially if this new tool is replacing an existing tool. Taking the time to introduce the new tool to your team members will also demonstrate that you have the best interest of the team in mind—not just the success of the project. 
+
+Here are some important considerations and keys to successfully introducing new tools:
+
+**Discuss the tool early and often, if possible.** The team should not feel blindsided by a new change. Make sure they know the change is coming as early as possible. This will help them prepare for an introduction or migration to the new tool.
+
+**Ask for feedback from key stakeholders.** You could get great feedback on features that you may have overlooked without asking for their expertise. You can solicit this feedback by requesting their input about functionality or have them list features in order of priority. The key is to create an opportunity for stakeholders to provide their feedback and allow you to incorporate their feedback into next steps.
+
+**Involve the key stakeholders in demonstrations as you get closer to making the final decision on the project tracking tool.** You will be able to leverage key stakeholders' acceptance by letting them test the product or sign up for a trial run. It is also important to make sure that the tool is actually going to meet the mark and provide a meaningful change for the project. You may want to pull in key users from your team to test and familiarize themselves with the tool prior to rolling it out. This will allow the team to get on board with your plans or discuss their concerns beforehand. This will also highlight in-house experts for future training, assistance, and implementation.
+
+**Ensure the tool is fully functional before the team is introduced to it.** Whenever possible, hold off from introducing the tool if it still has any issues. Make sure the tool is accessible for all users. Keep in mind, your team members may resist a tool that doesn’t live up to how it is supposed to function. This will impact implementation and acceptance fairly significantly, so put your best tool forward!
+
+**Set up training for the tool as needed before you ask the team to actually use it.** Everyone has different levels of comfort with different tools. It is your job as the project manager to ensure that each team members’ needs are addressed. Setting up training also helps create positive first impressions, which will lead to higher productivity and quicker, more successful implementation and acceptance.
+
+Remember, some pushback is normal, but successful project managers should take the steps to prepare and mitigate any friction for their team when possible. 
+
+**Pro tip:** If time allows, plan for a period of transition if you are replacing an existing tool. It is common to allow both tools to operate during this period. You will need to “sunset,” or retire, the existing tool eventually, but allowing for a period of transition between using the old tool and the new tool can help stakeholders and team members feel more at ease and give them time to gain familiarity with the new tool. Be prepared for productivity to be impacted as the team transitions from one tool to another.
+
+---
+
+### Exploring types of project management tools
+
+So, why would you choose to use scheduling and work management software? Well, it can be really useful for assigning tasks to multiple teammates and for tracking progress on that work. It can also help you visualize your team's progress. For example, if you're using work management software to assign and track tasks, you're more likely to notice if your team completes 50 tasks one week and just three tasks the following week.
 
 
 
