@@ -157,7 +157,73 @@ The ROI comes to 0.58, or 58%. You consider this to be a strong ROI, so you deci
 
 # Week 2
 
+### Determining project goals and deliverables
+
+The **project goal** is the desired outcome of the project. It's what you've been asked to do and what you're trying to achieve. 
+For example: 
+- Your goal could be to improve the response time to customer inquiries via email by 20 percent. The goal of your Office Green project might be to increase revenue by five percent through a new service called Plant Pals that offers desk plants to top customers by the end of the year. 
+
+Well-defined goals are both specific and measurable. They give you a clear sense of what you are trying to accomplish. Really great goals have even more detail.
+
+These goals also tell you how to do what you've been asked to do.
+
+When you start a project, take time to review your goals and make sure they're well-defined. To do this, **you might need to get more information from your stakeholders.** Talk to them about their vision for the project. Ask how this aligns to the company's larger goals and mission. By the end of that conversation, you and your stakeholders should agree to support the project goals in order to avoid running into issues later on.
+
+**Project deliverables** are the products or services that are created for the customer, client, or project sponsor. In other words, a deliverable is what gets produced or presented at the end of a task, event, or process.
+
+Take the goal to improve customer response time. the deliverable for that goal could be the creation of email templates for responding to typical questions. Your Office Green project goal to increase revenues could have these two deliverables: 
+- launching the plant service
+- a finished website that highlights the new kinds of plants being offered. 
+
+There are all sorts of project deliverable examples. A pretty common one is a report. When a goal is reached, you can visibly see the results documented in the chart, graph, or presentation. Deliverables help us quantify and realize the impact of the project. 
+
+---
+
 ### How to set SMART goals video notes
+
+Be attainable, be relevant, and be time-bound. Put them all together, and what do you have? SMART goals. As an entry-level project manager, you may or may not be setting the project's main goals, but you will need to be able to identify and clarify them as needed, and that's where the SMART method can be a valuable tool.
+
+**Specific** goals should answer at least two of the questions I'm about to ask. 
+- What do I want to accomplish? 
+- Why is this a goal? 
+- Does it have a specific reason, purpose, or benefit? 
+- Who is involved? 
+- Who is the recipient? Employees, customers, the community at large? 
+- Where should the goal be delivered? 
+
+To what degree? In other words, what are the requirements and constraints? 
+
+**Measuring** is not only a way for people to track progress, but also a tool to help people stay motivated. 
+
+You can tell the goal is measurable by asking
+
+- How much?
+- How many?
+- How will I know when it's accomplished? 
+
+Sometimes the success of a goal can be measured with a simple yes or no. 
+
+You will need to measure most of the goals you have with metrics. Metrics, what you use to measure something like numbers or figures. For example, if your goal was to run a five kilometer race, then distance in kilometers is your metric. 
+
+consider benchmarks or points of reference to make sure you're choosing accurate metrics. For instance, if your overall goal is to increase revenue, you can look at last year's data as a benchmark for deciding how much to increase revenue this year. 
+
+ Is it **attainable**? Can it reasonably be reached based on the metrics? Typically, you want goals that are a little challenging to encourage growth, otherwise, what's the point of the goal if nothing's going to change? However, you don't want it to be too extreme or you'll never reach it.
+
+ A clue to helping you figure out if your goal is attainable, is to ask: 
+ - How can it be accomplished? Break down the goal into smaller parts and see if it makes sense.
+
+ Now let's see if it's **relevant.** 
+ - Does it make sense to try and reach this goal? 
+Think about how the goal lines up with other goals, priorities and values. Ask whether the goal seems worthwhile. Does the effort involved balance out the benefits? Does it match your organizations' other needs and priorities?
+- Ask whether the goal seems worthwhile. 
+- Does the effort involved balance out the benefits? 
+- Does it match your organizations' other needs and priorities?
+Everyone, from the client, the project team, and the people who will ultimately use the product, need to feel like the goal is worth supporting. Also, consider the timing.
+- Is it the right time?
+
+**Time-bound** means your goal has a deadline. Deadlines give you a way to track your progress, otherwise, you may never reach your goal or never even get started. Time and metrics often go hand in hand, because time can also be used as a metric. Making your goal time-bound gives you a way to break down how much needs to be accomplished over time.
+
+
 
 ***What can help create a measurable goal? Select all that apply.***
 
@@ -318,6 +384,8 @@ The original goal indicates that Office Green will raise their customer retentio
 
 - **Time-bound:** The deadline is at the end of the year.
 
+
+
 ---
 
 ### Introduction to OKRS video notes
@@ -340,6 +408,12 @@ Top three most requested new offerings for distributed office environments are i
 sales and support channels are available 24/7 by the end of the year. 
 
 Some of these company-level key results could become the basis for projects.
+
+- OKR stands for Objective and Key Results. They combine a goal and a metric to determine a measurable outcome. 
+- Objectives define what needs to be achieved and describe a desired outcome. 
+- Key Results define how you will measure the outcome of your objective. 
+- Company-level OKRs are shared across an organization so that everyone can align and focus their efforts to help the company reach its goals.
+- Project-level OKRs help define measurable project goals. They need to align with and support both company and departmental-level OKRs.
 
 ---
 ### Reading: Creating OKRs for your project
@@ -519,7 +593,16 @@ Here are some best practices for scope management and controlling scope creep:
 
 ### Managing changes to a project's scope video notes
 
-In order to decide if a scope change is acceptable and what impact it will have, project managers usually refer to the triple constraint model. **The triple constraint model** is the combination of the three most significant restrictions of any project: scope, time, and cost. 
+**The triple constraint model** is the combination of the three most significant restrictions of any project: 
+- scope 
+- time
+- cost
+
+**Time** refers to the project schedule and deadlines. **Cost** includes the budget, and it also covers resources and the people who will work on the project. Both time and budget have to be carefully managed alongside scope. All three of these are linked; you can't change one without having an impact on the others. 
+
+***For example***, a decrease in cost means a change in time or scope. An increase in time means a change in scope or cost, or both. 
+
+Understanding how changing one impacts the other two constraints is key. It's important to consider what trade-offs you're willing to make as the project progresses. To do this successfully, you need a clear understanding of the project priorities.
 
 ---
 
@@ -553,9 +636,24 @@ A project landing shouldn’t create more hurdles. If done correctly, a landing 
 
 The **success criteria** will tell you whether or not the project as a whole was successful. They are the specific details of your goals and deliverables that tell you whether you've accomplished what you set out to do. They are the standards by which the project will be judged once it's been delivered to stakeholders and customers. 
 
-**Adoption** refers to how the customer uses and adopts a product or service without any issues. Engagement refers to how often or meaningful customer interaction and participation is over time.
+Determining Project Success
 
-**There are many different ways to measure success**. The key is to pick the methods that work best for your success criteria. It's a good idea that, along with each success criteria on your list, to also include the methods for how success will be measured, how often it's measured, and who's responsible for measuring it. Share your success criteria document with your stakeholders and ask if they agree with how the project's success will be determined. It's also a good idea to have the appropriate stakeholders sign off on the success criteria. 
+You can measure to determine your project success in a similar way to measuring a goal. So go through your project goals and deliverables, review the scope, and identify the measurable aspects of your project. These are going to be any of the metrics used in the goals and deliverables, along with your budget and schedule details. 
+
+- Another thing you'll need to do is get clarity from stakeholders on the project requirements and expectations.
+
+**Adoption metrics** refers to how the customer uses and adopts a product or service without any issues. Engagement refers to how often or meaningful customer interaction and participation is over time.
+
+Tracking how many customers renew their Plant Pals service, post about it, or share feedback are **engagement metrics.**
+
+**There are many different ways to measure success**. The key is to pick the methods that work best for your success criteria. It's a good idea that, along with each success criteria on your list, to also include the methods for 
+- how success will be measured, 
+- how often it's measured, and 
+- who's responsible for measuring it. 
+
+Share your success criteria document with your stakeholders and ask if they agree with how the project's success will be determined. It's also a good idea to have the appropriate stakeholders sign off on the success criteria. 
+
+Defining your success criteria should create greater alignment within the team and give everybody better visibility into how to achieve success. Clarity around success metrics also helps teams prioritize which efforts are most impactful to their users.
 
 ---
 ##### Product quality 
@@ -846,9 +944,25 @@ Documenting decisions can help you uncover:
 
 ### Project proposals and charters 101 video notes
 
+typically, a senior organizational leader creates the proposal. So you might not need to worry about creating the proposal, but you will have to keep track of the proposal's progress.
+
 These are: the project proposal and the project charter. A **project proposal** is a form of documentation that comes at the very beginning of the project. This document's purpose is to persuade stakeholders that a project should begin.
 
+A proposal may be a formal document, a presentation, or even a simple email to get others on board with the idea. 
+
 the **project charter**: a formal document that clearly defines the project and outlines the necessary details to reach its goals. A project charter helps you get organized, set up a framework for what needs to be done, and communicate those details to others. 
+
+As you learned earlier in this course, there are a few questions you might ask yourself when performing a cost benefit analysis. 
+
+The project charter makes clear that the benefits of the project outweigh the costs.
+
+That includes questions like: 
+- What value will this project create? 
+- How much money could this project save my organization? 
+- How much time will people have to spend on this project? 
+- You'll include the answers to these questions in your charter. 
+
+Including this type of information ensures that you and your stakeholders agree on the project value. 
 
 ##### Project charter vs Project proposal 
 
@@ -974,10 +1088,64 @@ Remember, some pushback is normal, but successful project managers should take t
 
 ---
 
-### Exploring types of project management tools
+### Exploring types of project management tools video notes
 
 So, why would you choose to use scheduling and work management software? Well, it can be really useful for assigning tasks to multiple teammates and for tracking progress on that work. It can also help you visualize your team's progress. For example, if you're using work management software to assign and track tasks, you're more likely to notice if your team completes 50 tasks one week and just three tasks the following week.
 
+ Another type of project management tool we'll discuss is **tools for productivity**. Productivity tools can be very helpful for you and your team. This includes word processing tools, like Microsoft Word or Google Docs.
 
+Productivity & collaboation tools 
+- Online shared documents 
+- Meeting agendas 
+- Status updates 
+- Spreadsheets
+- RACI charts
+- Project Plans
+- Presentaitons 
+- Project overviews
+- Email and chats
 
+You've learned more about the types of tools available to you, including **scheduling** and **work management software**, **productivity tools**, and **collaboration tools**.
+
+---
+
+### video notes
+
+Asana is a work management platform that helps teams plan and coordinate their work from daily tasks to strategic initiatives. 
+
+With Asana, everyone can see, discuss, and manage team priorities, giving teams clarity on who is doing what by when. It's great for building project plans, assigning tasks, automating workflows, tracking progress, and communicating with stakeholders.
+
+It's easy to use with external stakeholders as well, because within Asana, you can share status updates and other communications with people outside your company.
+
+Spreadsheets are extremely versatile, and you can use them for a wide range of tasks, from creating timelines and billing charts to managing budgets and tracking tasks. You can add and view project information in a variety of formats, depending on what you need in the moment.
+
+---
+
+### Reflection: Project tools
+
+>As the project manager of a new project, you decide which scheduling, productivity, collaboration, and work management tools the team will use. For the project, you will have eight team members and four remote stakeholders. You expect the project to take around six months to complete. There are a dozen deliverables and over 100 tasks. 
+
+**List at least one scheduling tool to keep the project on track. In 1-2 sentences, describe how you can use the tool.**
+
+**A1:**  Smartsheet to maintain the project’s schedule, resources, and budget
+
+**A2:** Google Sheets to create task lists and project plans, and analyze data with charts
+
+**List at least two productivity and collaboration tools to achieve tasks and better communicate with the team and stakeholders. In 1-2 sentences, describe how you can use each tool.**
+
+- Cloud Storage such as Google Drive to store documents online
+
+- Email such as Gmail or Outlook to send emails to vendors
+
+- Chat tools such as Slack to better communicate with your team members and stakeholders
+
+- Video conferencing tools such as Zoom or WebEx to host online meetings
+
+- Comprehensive tools like Microsoft Teams or Google Workplace to streamline productivity and collaboration
+
+**List at least one type of project management software—also called work management tools—to plan, track, and complete work. In 1-2 sentences, describe how you can use the tool.**
+
+**A:** Did you consider Asana, Trello, Monday.com, or Basecamp to help organize the work and visualize the team’s tasks? 
+
+Remember that work management tools, such as Asana, often provide a lot of features. They may include the scheduling and productivity tools you need to complete your project.
 
